@@ -1,0 +1,65 @@
+.block {
+  border: 1px solid #ccc;
+  padding: 10px;
+  width: 830px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  margin-left: 20%;
+}
+
+.jpg img {
+  width: 100%;
+}
+
+.class {
+  margin-top: 10px;
+}
+
+.title {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.info {
+  font-size: 14px;
+}
+
+.price {
+  font-size: 24px;
+  color: orangered;
+}
+
+.select {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.select button {
+  padding: 5px 10px;
+  border: 1px solid #6fd86f;
+  background-color: lime;
+  cursor: pointer;
+}
+
+.select span {
+  font-size: 16px;
+}
+
+.diameter {
+  display: flex;
+  align-items: center;
+  width: 10%;
+  height: 30px;
+  margin-top: 10px;
+}
+
+.btn {
+  padding: 5px 15px;
+  border: none;
+  background-color: #45a049;
+  color: black;
+  font-weight: bold;
+  cursor: pointer;
+  margin-left: 10px; 
+}
